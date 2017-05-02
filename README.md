@@ -5,7 +5,7 @@
 
 #### Store the data to the database
 ```
-python app.py
+python htn.py
 ```
 
 #### Run the server
